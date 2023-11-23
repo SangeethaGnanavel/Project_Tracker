@@ -1,0 +1,9 @@
+:root {
+  --header-color: #2a3e4f;
+}
+
+* {
+  font-family: "Menlo", "Lucida Console", monospace;
+  font-weight: 100;
+  font-style: normal;
+}
